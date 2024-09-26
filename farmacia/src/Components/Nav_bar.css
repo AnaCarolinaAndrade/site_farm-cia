@@ -1,0 +1,14 @@
+.container_nav{
+    background-color: var(--cor 6);
+    display: flex;
+    line-height: 100px;
+    justify-content: space-around;
+}
+
+
+
+.container_nav img{
+    width: 50px;
+    height: 40px;
+    }
+    
