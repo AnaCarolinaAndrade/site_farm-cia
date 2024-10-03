@@ -1,0 +1,39 @@
+.landing_container{
+ margin-top: 100px;
+ margin-right: 60%;
+}
+
+.landing_container h1{
+text-align: center;
+font-family: "Poppins", sans-serif;
+font-size: 40px;
+font-weight: bold;
+float:left;
+color: #ce1f3a;
+}
+
+.landing_container p{
+    font-family: "Poppins", sans-serif;
+    color: #ef97a4;
+}
+
+.landing_container button{
+border: none;
+border-radius: 20px;
+width: 150px;
+height: 40px;
+background-color: #e96a7e;
+font-family: "Poppins", sans-serif;
+font-weight: bold;
+color: #ffffff;
+}
+
+.landing_container button:hover{
+ transition: 0.2s;
+ background-color: #ce1f3a;
+
+}
+
+.landing_container img{
+margin-left: 800px;
+}
